@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid
+        android:color="#00000000"/> <!-- 透明色背景设置 -->
+
+    <size
+        android:height="50dp"/><!-- 高度设置 -->
+    <padding
+        android:left="8dp"
+        android:right="8dp"
+        />
+
+</shape>
